@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://.SanteriHei.github.io/sitemap.xml
+Sitemap: https://santerihei.github.io/sitemap.xml
