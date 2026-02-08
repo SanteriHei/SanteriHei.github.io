@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - SanteriHei 
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jatan12/pcdiffusion
+  - santerihei/hypernet_morl
+  - santerihei/Goalgan-DDPG
